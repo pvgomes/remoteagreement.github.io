@@ -1,8 +1,3 @@
-## INSTRUCTIONS
-- Make sure that your remote agreement doesn't exist yet
-
-## PR TEMPLATE
-
 ### Status
 **IN DEVELOPMENT**
 **HOLD**
