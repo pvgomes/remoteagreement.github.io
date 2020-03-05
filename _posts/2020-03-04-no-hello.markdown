@@ -14,7 +14,7 @@ categories: agreements
 | friend  |  waits while you phrase your question  |
 | you  | I'm working on [something], and I'm trying to do [etc...]  |
 | you  | wait while your friend phrases their answer  |
-| fiend  | Oh, that;s [answer...]  |
+| friend  | Oh, that;s [answer...]  |
 
 It’s as if you called someone on the phone and said “Hi!” and then put them on hold, its synchronous/blocked conversation which make a non productive day
 
@@ -23,4 +23,4 @@ It’s as if you called someone on the phone and said “Hi!” and then put the
 |  who  | message  |
 |-------|-------|
 | you  | Hi, I'm working on [something], and I'm trying to do [etc...]  |
-| fiend  | Oh, that;s [answer...]  |
+| friend  | Oh, that;s [answer...]  |

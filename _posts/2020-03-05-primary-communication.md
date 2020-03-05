@@ -10,5 +10,7 @@ It's not about what is the best communication application, its much more about a
 
 #### Example:
 **squad:** talk into slack into channel #our-squad
+
 **tribe:** use e-mail for tribe-xpo@yourcompany.com
+
 **project-a:** use slack channel #project-a and Jira board for tasks history
