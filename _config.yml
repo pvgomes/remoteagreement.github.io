@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Remote agreement
-description: a list of agreement to have a good remote work
+description: a list of agreement to have a good remote work based on a real life experiences
 list_title: Agreements
 url: "https://remoteagreement.com/"
 github: "https://github.com/pvgomes/remoteagreement.github.io"
