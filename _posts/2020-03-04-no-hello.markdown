@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "No hello manifest"
+date:   2020-03-04 09:10:04 -0300
+categories: agreements
+---
+# Avoid to say hello in chat (slack, skype...)
+
+**example**
+
+|  who  | message  |
+|-------|-------|
+| you  | Hi   |
+| friend  |  waits while you phrase your question  |
+| you  | I'm working on [something], and I'm trying to do [etc...]  |
+| you  | wait while your friend phrases their answer  |
+| fiend  | Oh, that;s [answer...]  |
+
+It’s as if you called someone on the phone and said “Hi!” and then put them on hold, its synchronous/blocked conversation which make a non productive day
+
+**Do this instead** (asynchronous/non blocking)
+
+|  who  | message  |
+|-------|-------|
+| you  | Hi, I'm working on [something], and I'm trying to do [etc...]  |
+| fiend  | Oh, that;s [answer...]  |
