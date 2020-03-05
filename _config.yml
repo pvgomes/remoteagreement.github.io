@@ -24,6 +24,7 @@ list_title: Agreements
 url: "https://remoteagreement.com/"
 github: "https://github.com/pvgomes/remoteagreement.github.io"
 permalink: /agreement/:year/:month/:day/:title
+google_analytics: UA-41382316-7
 
 # Build settings
 theme: minima
