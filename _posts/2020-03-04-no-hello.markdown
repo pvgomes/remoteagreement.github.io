@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "No hello manifest"
+title:  "No hello"
 date:   2020-03-04 09:10:04 -0300
 categories: agreements
 ---
@@ -24,3 +24,6 @@ It’s as if you called someone on the phone and said “Hi!” and then put the
 |-------|-------|
 | you  | Hi, I'm working on [something], and I'm trying to do [etc...]  |
 | friend  | Oh, that;s [answer...]  |
+
+
+[http://nohello.com/](http://nohello.com/)
