@@ -7,7 +7,7 @@ categories: agreements
 # Be verbose
 "Explicit is better than implicit - The Zen of Python, by Tim Peters"
 
-This came from code development, but we can use it for life and work, sometimes we think that something it's very obvious that there's no necessary be explicit in our communication, but it isn't really true, people are different, have different know-how, knowledge, and culture, be explicit its good to make sure that everything is clear and people understand what do you want to say or pass, this helps to avoid simple mistakes, its basically the essence of [checklist manifest](https://www.amazon.com/Checklist-Manifesto-How-Things-Right/dp/0312430000)
+This came from code development, but we can use it for life and work, sometimes we think that something it's very obvious that there's no necessary be explicit in our communication, but it isn't really true, people are different, have different know-how, knowledge, and culture, be explicit its good to make sure that everything is clear and people understand what do you want to say or pass, this helps to avoid simple mistakes, its basically the essence of [checklist manifesto](https://www.amazon.com/Checklist-Manifesto-How-Things-Right/dp/0312430000)
 
 
 Somethings in the Zend of Python that we can use to essence of this agreement
